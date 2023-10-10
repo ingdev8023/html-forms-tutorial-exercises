@@ -11,13 +11,13 @@ body {
 	font-family: montserrat, arial, verdana;
 }
 /*form styles*/
-.msform {
+form {
 	width: 400px;
 	margin: 50px auto;
 	text-align: center;
 	position: relative;
 }
-.msform fieldset {
+fieldset {
 	background: white;
 	border: 0 none;
 	border-radius: 3px;
